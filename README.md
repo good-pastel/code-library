@@ -1,33 +1,111 @@
-# CODE LIBRARY
+# Project Name
 
-> [[Code-Library](http://good-pastel.github.io/code-library)]
+> Short one-line description of the project.
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-<br />
-<div align="center">
-  <a href="https://github.com/good-pastel/good-pastel.github.io">
-    <img src="https://raw.githubusercontent.com/good-pastel/good-pastel.github.io/refs/heads/main/img/logo_trans.png" alt="Header">
-  </a>
-
-  <h3 align="center">Welcome to Good Pastel</h3>
-
-  <p align="center">
-   <blockquote><i>"Colors fade, but pastels hold their magic forever. Let the pastels be a reflection of the beauty within your soul."</i></blockquote>
-   <br />
-    <a href="https://github.com/good-pastel?tab=repositories"><strong>Explore the other Repo»</strong></a>
-  </p>
-</div>
+![HTML](https://img.shields.io/badge/HTML-5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black)
+![GitHub
+Pages](https://img.shields.io/badge/Deployment-GitHub%20Pages-222222?logo=github)
 
 ---
 
-## Description
+## 📖 About
 
-Code Library
+This project is one of my personal side projects, created to explore new
+ideas, strengthen my web development skills, and experiment with
+different approaches to building interactive websites.
 
-&copy; Good Pastel. 2025
+Every repository in this collection represents a small learning journey.
+Some projects focus on UI design, others on data visualization,
+portfolio development, or solving real-world problems through simple web
+applications.
 
-<!-- MARKDOWN LINKS & IMAGES -->
+---
 
-[linkedin-shield]: https://img.icons8.com/arcade/64/linkedin.png
-[linkedin-url]: https://linkedin.com/in/deviyool
+## ✨ Features
+
+- Responsive interface
+- Clean and simple design
+- Lightweight implementation
+
+### 💙 Keep Building
+
+This project is part of my personal Side Projects collection.
+
+I believe the best way to learn is by building. Every repository reflects my curiosity, continuous learning, and commitment to improving through real-world practice.
+
+---
+
+## 🚀 Live Demo
+
+Visit the published website here:
+
+**https://good-pastel.github.io/code-library/**
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- GitHub Pages
+
+---
+
+## 📁 Project Structure
+
+```text
+.
+├── img/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
+
+---
+
+## 🎯 Why I Built This
+
+I enjoy creating small projects outside of my daily work to continuously
+improve my technical skills and explore different ideas. These projects
+allow me to practice, experiment, and document my progress while
+building a public portfolio of my work.
+
+---
+
+## 🌱 Future Improvements
+
+Potential enhancements may include:
+
+- Additional interactive features
+- UI/UX refinements
+- Performance optimizations
+- Accessibility improvements
+- New functionality based on future ideas
+
+---
+
+## 🤝 Feedback
+
+Suggestions, ideas, and constructive feedback are always welcome.
+
+If you find something that can be improved, feel free to contact me through the contact form on my main website:
+**https://good-pastel.github.io**
+
+---
+
+## 📄 License
+
+This repository is intended for learning, portfolio, and personal
+reference purposes.
+
+---
+
+## 💙 Keep Building
+
+This project is part of my personal **Side Projects** collection.
+
+I believe the best way to learn is by building. Every repository reflects my curiosity, continuous learning, and commitment to improving through real-world practice.
