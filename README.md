@@ -29,12 +29,6 @@ applications.
 - Clean and simple design
 - Lightweight implementation
 
-### 💙 Keep Building
-
-This project is part of my personal Side Projects collection.
-
-I believe the best way to learn is by building. Every repository reflects my curiosity, continuous learning, and commitment to improving through real-world practice.
-
 ---
 
 ## 🚀 Live Demo
